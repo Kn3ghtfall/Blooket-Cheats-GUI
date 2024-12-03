@@ -6,9 +6,8 @@
 // @description  Everyone is right in their own eyes.
 // @match        *://*.blooket.com/*
 // @match        *://blooket.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=blooket.com
+// @icon         https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/refs/heads/main/Favicon.png
 // @downloadURL https://update.greasyfork.org/scripts/519212/Blooket%20Cheats%20GUI.user.js
-// @updateURL https://update.greasyfork.org/scripts/519212/Blooket%20Cheats%20GUI.meta.js
 // ==/UserScript==
 
  /**
