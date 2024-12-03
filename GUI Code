@@ -7,7 +7,7 @@
 // @match        *://*.blooket.com/*
 // @match        *://blooket.com/*
 // @icon         https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/refs/heads/main/Favicon.png
-// @downloadURL https://update.greasyfork.org/scripts/519212/Blooket%20Cheats%20GUI.user.js
+// @downloadURL  https://greasyfork.org/en/scripts/519673-blooket-cheats-gui
 // ==/UserScript==
 
  /**
