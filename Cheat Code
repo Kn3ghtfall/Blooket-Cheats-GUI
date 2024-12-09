@@ -5,7 +5,7 @@
 // @author       Kn3ghtfall
 // @description  Everyone is right in their own eyes.
 // @match        *://*.blooket.com/*
-// @icon         https://github.com/Kn3ghtfall/Blooket-Cheats-GUI/blob/main/System%20Images/Favicon.png?raw=true
+// @icon         
 // @downloadURL  https://greasyfork.org/en/scripts/519673-blooket-cheats-gui
 // ==/UserScript==
 
@@ -122,7 +122,7 @@
         const Cheats = {
             global: {
                 name: "Global",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Global.svg?token=BM2KON4U5NHBZOG4N4QJ55THKY5VW",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Global.svg",
                 cheats: [
                     {
                         name: "Auto Answer",
@@ -538,7 +538,7 @@
             },
             voyage: {
                 name: "Pirate's Voyage",
-                img: "https://github.com/Kn3ghtfall/Blooket-Cheats-GUI/blob/main/System%20Images/Pirate's%20Voyage.png?raw=true",
+                img: "https://github.com/Kn3ghtfall/Blooket-Cheats-GUI/blob/Main/System%20Images/Pirate's%20Voyage.png?raw=true",
                 cheats: [
                     {
                         name: "Heist ESP",
@@ -687,7 +687,7 @@
             },
             brawl: {
                 name: "Monster Brawl",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Monster%20Brawl.svg?token=BM2KONYKLGHMSZXNZZP7D33HKY6LU",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Monster%20Brawl.svg",
                 cheats: [
                     {
                         name: "Double Enemy XP",
@@ -787,7 +787,7 @@
             },
             cafe: {
                 name: "Caf\xe9",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Cafe.svg?token=BM2KON2UWYKAIHZUETACO23HKY5FM",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Cafe.svg",
                 style: { transform: "rotate(22.5deg)" },
                 cheats: [
                     {
@@ -851,7 +851,7 @@
             },
             crypto: {
                 name: "Crypto Hack",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Crypto%20Hack.svg?token=BM2KON5U5K3BKBLLMOTUB33HKY5GW",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Crypto%20Hack.svg",
                 cheats: [
                     {
                         name: "Choice ESP",
@@ -1022,7 +1022,7 @@
             },
             defense: {
                 name: "Tower Defense",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Tower%20of%20doom.svg?token=BM2KON6NEQ7TGKZUEOPGLGTHKY7OQ",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Tower%20Defense.svg",
                 cheats: [
                     {
                         name: "Earthquake",
@@ -1127,7 +1127,7 @@
             },
             defense2: {
                 name: "Tower Defense 2",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Tower%20of%20doom.svg?token=BM2KON4EJBO6CLVXVBIJR6LHKY7KC",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Tower%20Defense%202.svg",
                 style: { transform: "rotate(45deg)" },
                 cheats: [
                     {
@@ -1191,7 +1191,7 @@
             },
             dinos: {
                 name: "Deceptive Dinos",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Deceptive%20Dinos.svg?token=BM2KONZJ2VIPZ2NYMVPOTQTHKY5SO",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Deceptive%20Dinos.svg",
                 style: { transform: "rotate(-22.5deg)" },
                 cheats: [
                     {
@@ -1379,7 +1379,7 @@
             },
             doom: {
                 name: "Tower of Doom",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Tower%20Defense.svg?token=BM2KON337OQP5ZMIBGRUYZDHKY7OA",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Tower%20of%20doom.svg",
                 cheats: [
                     {
                         name: "Fill Deck",
@@ -1456,7 +1456,7 @@
             },
             factory: {
                 name: "Factory",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Factory.svg?token=BM2KON2E2IOYE47LNMOXOM3HKY5TI",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Factory.svg",
                 cheats: [
                     {
                         name: "Choose Blook",
@@ -1567,7 +1567,7 @@
             },
             fishing: {
                 name: "Fishing Frenzy",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Fishing%20Frenzy.svg?token=BM2KONYMJ56VEVO33IFOWILHKY5UK",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Fishing%20Frenzy.svg",
                 cheats: [
                     {
                         name: "Remove Distractions",
@@ -1661,7 +1661,7 @@
             },
             flappy: {
                 name: "Flappy Blook",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Flappy%20Blook.svg?token=BM2KON6PU5GZE54INFOV5IDHKY5VE",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Flappy%20Blook.svg",
                 cheats: [
                     {
                         name: "Toggle Ghost",
@@ -1693,7 +1693,7 @@
             },
             gold: {
                 name: "Gold Quest",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Gold%20Quest.svg?token=BM2KON44UBS4HUOJSR7TFV3HKY6K6",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Gold%20Quest.svg",
                 cheats: [
                     {
                         name: "Always Triple",
@@ -1861,7 +1861,7 @@
             },
             kingdom: {
                 name: "Crazy Kingdom",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Crazy%20Kingdom.svg?token=BM2KONYUQ3V4NQVLYCONIW3HKY5GC",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Crazy%20Kingdom.svg",
                 cheats: [
                     {
                         name: "Choice ESP",
@@ -1940,7 +1940,7 @@
             },
             racing: {
                 name: "Racing",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Racing.svg?token=BM2KON35ADKFEAS3LMISRMDHKY6NQ",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Racing.svg",
                 cheats: [
                     {
                         name: "Instant Win",
@@ -1975,7 +1975,7 @@
             },
             royale: {
                 name: "Battle Royale",
-                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/dd80f9526015ad314ff12a1a81d5e554113df8a7/System%20Images/Battle%20Royale.svg?token=BM2KONYIZXQYMSSCX3EGD2DHKY5EM",
+                img: "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Battle%20Royale.svg",
                 cheats: [
                     {
                         name: "Auto Answer (Toggle)",
@@ -2009,7 +2009,7 @@
             },
             rush: {
                 name: "Blook Rush",
-                img: "https://github.com/Kn3ghtfall/Blooket-Cheats-GUI/blob/main/System%20Images/Blook%20Rush.png?raw=true",
+                img: "https://github.com/Kn3ghtfall/Blooket-Cheats-GUI/blob/Main/System%20Images/Blook%20Rush.png?raw=true",
                 cheats: [
                     {
                         name: "Set Blooks",
@@ -2049,7 +2049,7 @@
             },
             workshop: {
                 name: "Santa's Workshop",
-                img: "https://github.com/Kn3ghtfall/Blooket-Cheats-GUI/blob/main/System%20Images/Santa's%20Workshop.png?raw=true",
+                img: "https://github.com/Kn3ghtfall/Blooket-Cheats-GUI/blob/Main/System%20Images/Santa's%20Workshop.png?raw=true",
                 cheats: [
                     {
                         name: "Remove Distractions",
@@ -2350,7 +2350,7 @@
                                     {
                                         name: "Tower Defense 2",
                                         value: {
-                                            backgroundColor: "url(https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/f0ee005c35bde2273832264418d4c608214b59d1/System%20Images/Background.svg?token=BM2KON6TTINVEUXYAMUDAVDHKZANO) center / cover",
+                                            backgroundColor: "url(https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-GUI/71405f2daa442c35c7d7aaf02cc5fc8e483a30b4/System%20Images/Background.svg) center / cover",
                                             cheatList: "#a33c22",
                                             infoColor: "#a33c22",
                                             defaultButton: "#40b1d8",
